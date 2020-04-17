@@ -26,3 +26,11 @@
 **Thoughts**: Feels good to finish CS50W, excited to move on and learn more stuff.
 
 **Link to work**: https://github.com/jereldlimjy/scoop
+
+### Day 2: April 17, Friday
+
+**Today's Progress**: Recapped HTML and CSS stuff with the new course, and learnt some cool shortcuts on Sublime Text.
+
+**Thoughts**: Decently productive day, but can do much better.
+
+**Link to work**: -
