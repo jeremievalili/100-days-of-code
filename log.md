@@ -34,3 +34,11 @@
 **Thoughts**: Decently productive day, but can do much better.
 
 **Link to work**: -
+
+### Day 3: April 18, Saturday
+
+**Today's Progress**: Recapped about some Bootstrap stuff, putting your project on Github Pages, learnt about CSS Grid and Flexbox, 
+
+**Thoughts**: Quite a good day.
+
+**Link to work**: -
