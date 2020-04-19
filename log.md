@@ -37,8 +37,16 @@
 
 ### Day 3: April 18, Saturday
 
-**Today's Progress**: Recapped about some Bootstrap stuff, putting your project on Github Pages, learnt about CSS Grid and Flexbox, 
+**Today's Progress**: Recapped about some Bootstrap stuff, putting your project on Github Pages, learnt about CSS Grid and Flexbox. 
 
 **Thoughts**: Quite a good day.
+
+**Link to work**: -
+
+### Day 4: April 19, Sunday
+
+**Today's Progress**: Finished up CSS Grid and Flexbox exercise, recapped JavaScript. 
+
+**Thoughts**: Not bad.
 
 **Link to work**: -
