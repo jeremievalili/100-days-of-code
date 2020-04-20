@@ -50,3 +50,11 @@
 **Thoughts**: Not bad.
 
 **Link to work**: -
+
+## Day 5: April 20, Monday
+
+**Today's Progress**: Learnt more about JavaScript - data types, objects, and DOM manipulation. Stuff that I've learnt in CS50, but dove in deeper and helps make sure I remember them.
+
+**Thoughts**: Improvement from yesterday.
+
+**Link to work**: -
