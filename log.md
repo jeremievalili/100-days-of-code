@@ -58,3 +58,11 @@
 **Thoughts**: Improvement from yesterday.
 
 **Link to work**: -
+
+## Day 6: April 21, Tuesday
+
+**Today's Progress**: Did a CSS gradient background generator, learnt more about JavaScript stuff such as currying, closures and compose. Recapped on JS arrow functions, template strings and differences between ES5 and ES6.
+
+**Thoughts**: Pretty good.
+
+**Link to work**: https://github.com/jereldlimjy/background-generator
