@@ -1,3 +1,3 @@
 # I've joined the #100DaysOfCode Challenge
 
-My log, started 16/4/20
+My log : 22/04/2020
