@@ -21,8 +21,8 @@
 
 ### Day 1: April 22, Wednesday
 
-**Today's Progress**: 
+**Today's Progress**: Begining of the app calculator made in Javascript
 
-**Thoughts**:
+**Thoughts**: Not easy to do a project in one day for the moment with my skill... but I'm on fire!
 
 **Link to work**:
