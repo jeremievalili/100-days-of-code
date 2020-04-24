@@ -26,3 +26,11 @@
 **Thoughts**: Not easy to do a project in one day for the moment with my skill... but I'm on fire!
 
 **Link to work**:
+
+### Day 2: April 23, Tuesday
+
+**Today's Progress**: Work on Promises, the Javascript function 
+
+**Thoughts**: I need to be more focus on work , I've made 2 exercices for understand the concept but it takes me too much time to get that... Maybe with time. 
+
+**Link to work**: Nothing... 
