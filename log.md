@@ -34,3 +34,19 @@
 **Thoughts**: I need to be more focus on work , I've made 2 exercices for understand the concept but it takes me too much time to get that... Maybe with time. 
 
 **Link to work**: Nothing... 
+
+### Day 3: April 24, Friday
+
+**Today's Progress**: Learning how to use API
+
+**Thoughts**: Very awesome topic in the ZTM Course to me. I want to know how to use a lot of useful API.
+
+**Link to work**:
+
+### Day 4: April 25, Saturday
+
+**Today's Progress**: review of basic of javascript
+
+**Thoughts**: helpful for me because the concept of object was a bit confusing to me.
+
+**Link to work**: A youtube video 
